@@ -7,7 +7,7 @@ A regular expression is a pattern used to match character combinations in text. 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Let's break it down](#matching-the-local-part)
+- [Let's break it down](#lets-break-it-down)
 - [Conclusion](#conclusion)
 
 ## Introduction
