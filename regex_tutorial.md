@@ -44,4 +44,4 @@ I hope you found this tutorial helpful and please see below for my contact infor
 
 **Github Repo**: [Link Here ](https://github.com/StephTidwell/17-challenge-cs-for-js)
 
-**Github Gist**: [challenge 17 Link Here ](https://gist.github.com/StephTidwell/1c45bc547799f13eee6d7d00dc837b46)
+**Github Gist**: [Challenge 17 Link Here ](https://gist.github.com/StephTidwell/1c45bc547799f13eee6d7d00dc837b46)
